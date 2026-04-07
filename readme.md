@@ -1,4 +1,4 @@
-# 2D Incompressible Navier–Stokes Solver
+# 2D Incompressible Navier–Stokes Solver!
 
 A Python project that simulates 2D fluid flow using the projection method. It models classic lid-driven cavity flow and lets you explore how flow behavior changes with different parameters.
 
